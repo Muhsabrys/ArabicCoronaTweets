@@ -1,5 +1,5 @@
 
-# Dataset: Linguistic Styles and Figurative Meaning in COVID-19 Discussions on Twitter
+# Dataset: Public perception of COVID-19’s global health crisis on Twitter until 14 weeks after the outbreak
 
 ## Abstract
 
@@ -43,4 +43,4 @@ Although LIWC-based analysis showed that English-speaking tweeters maintained hi
 
 If you use this dataset in your research, please cite the original paper:
 
-[**"Linguistic Styles and Figurative Meaning in COVID-19 Discussions on Twitter"**](https://pmc.ncbi.nlm.nih.gov/articles/PMC7499507/)
+[**"Abdo MS, Alghonaim AS, Essam BA. Public perception of COVID-19’s global health crisis on Twitter until 14 weeks after the outbreak. Digital Scholarship in the Humanities. 2020 Sep 2:fqaa037. doi: 10.1093/llc/fqaa037. PMCID: PMC7499507."**](https://academic.oup.com/dsh/article/36/3/509/5900398)
