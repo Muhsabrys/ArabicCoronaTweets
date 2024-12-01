@@ -43,4 +43,4 @@ Although LIWC-based analysis showed that English-speaking tweeters maintained hi
 
 If you use this dataset in your research, please cite the original paper:
 
-[**"Abdo MS, Alghonaim AS, Essam BA. Public perception of COVID-19’s global health crisis on Twitter until 14 weeks after the outbreak. Digital Scholarship in the Humanities. 2020 Sep 2:fqaa037. doi: 10.1093/llc/fqaa037. PMCID: PMC7499507."**](https://academic.oup.com/dsh/article/36/3/509/5900398)
+[**"Muhammad S Abdo, Ali S Alghonaim, Bacem A Essam, Public perception of COVID-19’s global health crisis on Twitter until 14 weeks after the outbreak, Digital Scholarship in the Humanities, Volume 36, Issue 3, September 2021, Pages 509–524, https://doi.org/10.1093/llc/fqaa037"**](https://academic.oup.com/dsh/article/36/3/509/5900398)
